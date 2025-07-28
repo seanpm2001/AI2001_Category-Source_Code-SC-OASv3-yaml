@@ -32,6 +32,13 @@
 *.css linguist-detectable=true
 *.css linguist-documentation=false
 *.css linguist-language=CSS
+# OASv3-yaml source file
+*.yml linguist-detectable=true
+*.yml linguist-documentation=false
+*.yml linguist-language=OASv3-yaml
+*.yaml linguist-detectable=true
+*.yaml linguist-documentation=false
+*.yaml linguist-language=OASv3-yaml
 # R source file
 *.r linguist-detectable=true
 *.r linguist-documentation=false
@@ -80,10 +87,10 @@
 *.srt linguist-language=SubRip-Text
 # YAML (YAML Ain't Markup Language) document
 # Do not include, as it would become a dominant language that shouldn't be the language people refer this project to
-*.yml linguist-detectable=false
-*.yml linguist-documentation=false
-*.yml linguist-language=YAML
-*.yaml linguist-detectable=false
+# *.yml linguist-detectable=false
+# *.yml linguist-documentation=false
+# *.yml linguist-language=YAML
+# *.yaml linguist-detectable=false
 *.yaml linguist-documentation=false
 *.yaml linguist-language=YAML
 # Markdown
@@ -183,7 +190,7 @@
 # File info
 
 # File type: gitattributes file (*.gitattributes)
-# File version: 5 (2024, Wednesday, August 28th at 03:02 pm PST)
-# Line count (including blank lines and compiler line): 190
+# File version: 6 (2025, Sunday, July 27th at 10:25 pm PST)
+# Line count (including blank lines and compiler line): 197
 
 # End of script
